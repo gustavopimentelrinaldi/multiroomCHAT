@@ -40,6 +40,7 @@ body {
     height: auto;
     margin: auto;
 }
+
 .panel {
     margin-bottom: 20px;
     background-color: rgba(255, 255, 255, 0.75);
@@ -75,7 +76,8 @@ img {
 }
 
 .participante{
-	display:block;
+    display:block;
+    color: #D8F0FE;
 	margin-bottom:15px;
 }
 
